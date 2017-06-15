@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Carousel Plugin
+Plugin Name: Custom Post Type Slider
 Plugin URI: http://www.11online.us
-Description: Easy way to edit Carousel JS
+Description: Easy to Edit Custom Post Type Slider
 Version: 1.0
 Revision Date: December 16, 2015
 License: GNU General Public License 3.0 (GPL) http://www.gnu.org/licenses/gpl.html
