@@ -82,6 +82,7 @@ function cpt_slider_shortcode_add_code($atts) {
 				<p><a href="' . get_the_permalink() . '" class="button">Read More</a></p>
 			</div></div>';
 	}
+	wp_reset_postdata();
 
 	$text .= '</div>
 	<!-- Controls -->
